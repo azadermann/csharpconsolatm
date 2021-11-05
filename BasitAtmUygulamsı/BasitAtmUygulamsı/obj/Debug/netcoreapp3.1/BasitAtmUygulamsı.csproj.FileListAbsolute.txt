@@ -1,0 +1,14 @@
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.csproj.AssemblyReference.cache
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.AssemblyInfoInputs.cache
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.AssemblyInfo.cs
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.csproj.CoreCompileInputs.cache
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.exe
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.deps.json
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.runtimeconfig.json
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.runtimeconfig.dev.json
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.dll
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\bin\Debug\netcoreapp3.1\BasitAtmUygulamsı.pdb
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.dll
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.pdb
+D:\c# Uygulamalar\BasitAtmUygulamsı\BasitAtmUygulamsı\obj\Debug\netcoreapp3.1\BasitAtmUygulamsı.genruntimeconfig.cache
