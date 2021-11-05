@@ -2,28 +2,16 @@
 C# İf döngüsü ile basit atm örneği (Consol)
 
 
+using System;
+using System.Threading;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//consolun başlığını değiştirme
+namespace BasitAtmUygulamsı
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //consolun başlığını değiştirme
             Console.Title = "Zear Bank Atm";
             double bakiye = 1000.00;
             int CekilecekTutar = 0;
@@ -105,3 +93,7 @@ C# İf döngüsü ile basit atm örneği (Consol)
             }
 
             Console.ReadKey();
+        }
+    }
+}
+
