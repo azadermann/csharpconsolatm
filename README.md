@@ -6,6 +6,23 @@ C# İf döngüsü ile basit atm örneği (Consol)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //consolun başlığını değiştirme
             Console.Title = "Zear Bank Atm";
             double bakiye = 1000.00;
